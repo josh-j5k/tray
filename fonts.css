@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'clash-display-light';
+    font-weight: 400;
+    src: url('./fonts/clash display/ClashDisplay-Light.woff') format('woff');
+}
+@font-face {
+    font-family: 'clash-display-light';
+    font-weight: 400;
+    src: url('./fonts/clash display/ClashDisplay-Light.otf') format('otf');
+}
+@font-face {
+    font-family: 'clash-display-regular';
+    font-weight: 500;
+    src: url('./fonts/clash display/ClashDisplay-Regular.otf') format('otf');
+}
+@font-face {
+    font-family: 'clash-display-regular';
+    font-weight: 500;
+    src: url('./fonts/clash display/ClashDisplay-Regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'clash-display-medium';
+    font-weight: 600;
+    src: url('./fonts/clash display/ClashDisplay-Medium.woff') format('woff');
+}
+@font-face {
+    font-family: 'clash-display-medium';
+    font-weight: 600;
+    src: url('./fonts/clash display/ClashDisplay-Medium.otf') format('otf');
+}
+@font-face {
+    font-family: 'clash-display-bold';
+    font-weight: 700;
+    src: url('./fonts/clash display/ClashDisplay-Bold.otf') format('otf');
+}
+@font-face {
+    font-family: 'clash-display-bold';
+    font-weight: 700;
+    src: url('./fonts/clash display/ClashDisplay-Semibold.woff') format('woff');
+}
